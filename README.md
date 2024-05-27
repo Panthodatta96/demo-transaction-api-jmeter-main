@@ -15,5 +15,5 @@ In this project
  3. Then start in JMeter
 
 ## HTML Report:
-![Screenshot 2024-02-07 115957](https://github.com/sborsha/demo-transaction-api-jmeter/assets/97577812/4c946eea-4c4a-40e5-bd37-4d48924b332a)
+![Screenshot 2024-02-07 115957](https://github.com/Panthodatta96/pictures-of-demo-tests-jmeter/blob/main/demo-transaction-api-jmeter-main.png)
 
